@@ -1,5 +1,9 @@
 # nodebots
 
-Sketches de la presentacio de Nodebots Arduino + Processing del 2 de Junio
+Sketches de la presentación de Nodebots Arduino + Processing del 2 de Junio
 
-[![presentacion]()](https://drive.google.com/open?id=191rNtxxavr3l5-lyvkRp2rdc3-xfaWeRFxaDri0DovA)
+
+[![PyPI](https://github.com/antikytheraton/nodebots/blob/master/DeepinScreenshot20170613154344.png)](https://docs.google.com/presentation/d/1bRU_nz14xDx0Pgw_xizoLT9iiH3b7j4fxvTGorwoGdY/edit#slide=id.p)
+
+
+https://docs.google.com/presentation/d/1bRU_nz14xDx0Pgw_xizoLT9iiH3b7j4fxvTGorwoGdY/edit?usp=sharing
