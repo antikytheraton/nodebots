@@ -102,12 +102,12 @@ void serialEvent(Serial myPort) {
   rawString = rawString.trim();
   try {
     //split the string into an array of 2 value (e.g. "0,127" will become ["0","127"])
-    String[] values = rawString.split(",");
+    String[] values = rawString.split("\t");
     // If we have 2 bytes:
     int x = int(values[0]);
     int y = int(values[1]);
-    xpos = map(x, 0, 150, 0, width);
-    ypos = map(y, 0, 150, 0, height);
+    xpos = map(y, 0, 150, 0, width);
+    ypos = map(x, 0, 150, 0, height);
     serialCount = 0;
   }
   catch(Exception e) {

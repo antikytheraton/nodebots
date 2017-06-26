@@ -64,7 +64,7 @@ void loop()
   //Mostrar los valores por consola
   //Serial.print("Angle X: "); Serial.print(Angle[0]); Serial.print("\n");
   //Serial.print("Angle Y: "); Serial.print(Angle[1]); Serial.print("\n------------\n");
-  Serial.print(Angle[0]); Serial.print(",");
+  Serial.print(Angle[0]); Serial.print("\t");
   Serial.print(Angle[1]); Serial.print("\n");
 
   delay(10); //Nuestra dt sera, pues, 0.010, que es el intervalo de tiempo en cada medida
